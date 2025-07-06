@@ -12,7 +12,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Ehtashamul",
   description:
-    "This is the portfolio of Ehtashamul. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
+    "I am a skilled full-stack developer with a passion for self-directed learning and innovation. Committed to embracing new technologies, I thrive on challenging projects and value collaboration. My adaptability and quick learning ability enable me to deliver high-quality solutions efficiently.",
 };
 
 export default function RootLayout({ children }) {
